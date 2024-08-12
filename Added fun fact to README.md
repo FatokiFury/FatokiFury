@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on I'm looking to collaborate on open-source projects, contribute to others' work, and build something amazing together.
 - 📫 How to reach me Novaspark884@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...I spent 3 years thinking I wasn't cut out for coding, but it turns out I just needed to listen more and trust the process. Now, I'm embracing my journey and learning to see my own potential - one line of code at a time!
+- ⚡ Fun fact: ...I spent 3 years thinking I wasn't cut out for coding, but it turns out I just needed to listen more and trust the process. Now, I'm embracing my journey and learning to see my own potential - 
 
 <!---
 FatokiFury/FatokiFury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
